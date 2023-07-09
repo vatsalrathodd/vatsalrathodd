@@ -8,7 +8,7 @@
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
 
 
-<img align="right" alt="Coding" width="400"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="500"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vatsal_rathod_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-rathod-545404236/) [![E-mail](https://img.shields.io/badge/email-%231DA1F2.svg?logo=email&logoColor=white)](https://gmail.com/vatsalrathodd@gmail.com/)
