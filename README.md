@@ -21,9 +21,7 @@
 # 📊 GitHub Stats:
 <div align="center" >
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=nord_dark" width="45%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsalrathodd&theme=nord_dark&utcOffset=5.30" width="45%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=nord_dark" width="50%">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalrathodd&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
     
