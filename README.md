@@ -19,12 +19,23 @@
 
 
 # 📊 GitHub Stats:
-<img  src="https://github-readme-stats-vatsalrathodd.vercel.app/api?username=vatsalrathodd&count_private=true&show_icons=true&theme=gotham" width="48%" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalrathodd&theme=gotham" width="48%" >
-<br>
+<div align="center" >
 
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=vatsalrathodd&theme=gotham&area=true) -->
-![Vatsal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhavinondhiya&theme=gotham&area=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeniusNirmit&theme=nord_dark" width="49%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GeniusNirmit&theme=nord_dark&utcOffset=5.30" width="49%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeniusNirmit&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
+    
+</a>
+    
+<details>
+
+<summary> <strong> Show more Stats </strong> </summary>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeniusNirmit&theme=nord_dark" width="100%">
+
+</details>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vatsalrathodd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
