@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vatsal_rathod_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-rathod-545404236/) [![E-mail](https://img.shields.io/badge/email-%231DA1F2.svg?logo=email&logoColor=white)](https://gmail.com/vatsalrathodd@gmail.com/)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,java,js,vscode,python" width="100%">
 
 
 # 📊 GitHub Stats:
