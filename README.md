@@ -8,7 +8,7 @@
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>"/>
 
 
 ## 🌐 Socials:
