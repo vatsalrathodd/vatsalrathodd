@@ -32,7 +32,7 @@
 <details>
 
 <summary> <strong> Show more Stats </strong> </summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeniusNirmit&theme=nord_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=nord_dark" width="100%">
 
 </details>
 </div>
