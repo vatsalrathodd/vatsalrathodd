@@ -8,6 +8,9 @@
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
 - ⚡ Fun fact **I'm an Anime Lover**
 
+![](https://github-profile-trophy.vercel.app/?username=vatsalrathodd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<img align="right" alt="Coding" width="400"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_vatsal_rathod_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-rathod-545404236/) [![E-mail](https://img.shields.io/badge/email-%231DA1F2.svg?logo=email&logoColor=white)](https://gmail.com/vatsalrathodd@gmail.com/)
 
@@ -36,8 +39,6 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vatsalrathodd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-<img align="right" alt="Coding" width="400"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalrathodd&label=Profile%20views&color=d400ff&style=flat" alt="vatsalrathodd" /> </p>
 
