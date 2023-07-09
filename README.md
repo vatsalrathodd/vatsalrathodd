@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 <div align="left" width="35%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=nord_dark" width="35%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=gotham" width="35%">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vatsalrathodd&theme=gotham&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalrathodd&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -37,7 +37,7 @@
 <details>
 
 <summary> <strong> Show more Stats </strong> </summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=nord_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=gotham" width="100%">
 
 </details>
 </div>
