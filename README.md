@@ -22,7 +22,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=nord_dark" width="35%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalrathodd&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="35%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalrathodd&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="95%">
     
 </a>
     
