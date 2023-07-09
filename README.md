@@ -33,7 +33,7 @@
 <details>
 
 <summary> <strong> Show more Stats </strong> </summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=react-dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=gotham" width="100%">
 
 </details>
 </div>
