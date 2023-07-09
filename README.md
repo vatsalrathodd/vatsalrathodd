@@ -6,6 +6,7 @@
 - 🤔 I’m Looking forward to explore around various projects in Mern Stack Developement
 - 🌱 I'm Also Solving Various Problems on coding platforms such as Leetcode,Codeforce,Codechef,etc.
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
+- ⚡ Fun fact ** Anime Lover **
 
 
 <img align="right" alt="Coding" width="400"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
