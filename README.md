@@ -18,7 +18,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center" >
+<div align="left" width="35%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalrathodd&theme=nord_dark" width="50%">
 
