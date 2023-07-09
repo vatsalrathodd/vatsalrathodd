@@ -29,9 +29,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalrathodd&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="95%">
     
 </a>
-    
-<details>
+      
+<br>
 
+<details>  
 <summary> <strong> Show more Stats </strong> </summary>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalrathodd&theme=gotham" width="100%">
 
