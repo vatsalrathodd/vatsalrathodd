@@ -8,7 +8,7 @@
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
 - ⚡ Fun fact **I'm an Anime Lover**
 
-![](https://github-profile-trophy.vercel.app/?username=vatsalrathodd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+  
 <img align="right" alt="Coding" width="400"  src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🌐 Socials:
@@ -39,6 +39,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vatsalrathodd&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalrathodd&label=Profile%20views&color=d400ff&style=flat" alt="vatsalrathodd" /> </p>
 
