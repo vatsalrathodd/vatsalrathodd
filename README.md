@@ -44,4 +44,4 @@
 
 
 # Leetcode Stats 🏆
-![LeetCode Stats](https://leetcard.jacoblin.cool/vatsalrathodd?theme=gotham=Ubuntu%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vatsalrathodd?theme=gotham=Ubuntu%20Mono&ext=heatmap) 
